@@ -1,6 +1,6 @@
 {
   "name": "@dotoracle/default-token-list",
-  "version": "8.1.0",
+  "version": "0.0.1",
   "description": "◦ The DotOracle Pegged Swap default token list",
   "main": "build/dotoracle-default.tokenlist.json",
   "scripts": {
