@@ -26,15 +26,15 @@
   {
     "name": "Mock1 Token",
     "symbol": "MOCK197",
-    "address": "0x3710a0bb81551B7aF68ef63b9AFD4fc6CAaf9420",
+    "address": "0x1A5e013b08455c9B01f03F431E66CF2Be19Ce007",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
   },
   {
     "name": "Mock2 Token",
-    "symbol": "MOCK2197",
-    "address": "0x5DeB0098B663790F83318be7dbfaE3f8C1c23D0b",
+    "symbol": "MOCK297",
+    "address": "0x331FA1d4d653c0BB7fc0Fc0DF697cadDEFcfA6db",
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
