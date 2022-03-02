@@ -2,6 +2,18 @@
 # yarn lockfile v1
 
 
+"@dotoracle/sdk@0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@dotoracle/sdk/-/sdk-0.0.10.tgz#a68bab265f01cdb8a460777235c05c588afb299b"
+  integrity sha512-4vjihvL35HRDYRTGeao3tmyc1tDvIrNT1mejC+VuPZBlLFJSOsAoO1UJMJBA/YfnlgDeNkBanzzsvO3sht0r7w==
+  dependencies:
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@ethersproject/address@^5.0.2":
   version "5.0.8"
   resolved "https://registry.yarnpkg.com/@ethersproject/address/-/address-5.0.8.tgz#0c551659144a5a7643c6bea337149d410825298f"
@@ -504,18 +516,6 @@ diff@4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
-
-dotoracle-sdk@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/dotoracle-sdk/-/dotoracle-sdk-0.0.1.tgz#a8acfbd6fdac6fb677404eab577097065523d347"
-  integrity sha512-ITsXwrFbnCMbSZit20DAiid8d8P4mSA0kJeVclMCdJeZti/6LbQDf4/oKtQOHSF5dM94yWuCBhLei6aQqlOYzA==
-  dependencies:
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
 
 emoji-regex@^7.0.1:
   version "7.0.3"
